@@ -1,7 +1,7 @@
 [pyrogram]
-api_id =
-api_hash =
+api_id = 28518520
+api_hash = c858cde56cb2b2050a64df7e65de567b
 [bot]
-token =
-admin_group = -1001258360705
-dest_chan = -1001179151275
+token = 7365320196:AAFuz9BKMGbOgym_drNfKz4mPFMyC1CS3yo
+admin_group = -1002163044186
+dest_chan = -1002236001760
